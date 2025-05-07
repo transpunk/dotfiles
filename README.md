@@ -18,3 +18,5 @@ i also have my keybindings file here but they're just a sample
 
 screenshots:
 ![image](https://github.com/user-attachments/assets/66fe955f-7773-4165-b3bf-89d020ab5eaf)
+![image](https://github.com/user-attachments/assets/48fa3933-a9dc-4399-940e-180254eaddc2)
+
