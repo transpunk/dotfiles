@@ -7,8 +7,6 @@ i might make an installer script in the future? but for now this is it.
 
 ### config files included:
 
-status bar: waybar (the config is a mess, but it works)
-
 menu: fuzzel
 
 terminal: kitty
@@ -17,13 +15,15 @@ wm: hyprland
 
 lockscreen: hyprlock
 
-audio visualizer: cava (v simple config lmao)
-
 sysfetch: fastfetch
 
-plus vscodium json settings because why not
-
 i also have my keybindings file here but they're just a sample
+
+### to add:
+
+status bar: waybar (gotta clean up the config first teehee
+
+plus maybe vscodium settings.json but idk
 
 about wallpapers: i have a couple of my fave wallpapers here, i recommend skull.jpg or city.jpg for this theme, but no wallpaper app configs. also i have no idea where they came from so sorry :c
 
