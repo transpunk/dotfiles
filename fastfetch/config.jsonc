@@ -1,0 +1,140 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "source": "arch3",
+    "padding": {
+      "top": 4,
+      "left": 3
+    },
+    "color": {
+      "1": "blue",
+      "2": "cyan"
+    }
+  },
+  "display": {
+    "separator": " "
+  },
+  "modules": [
+    "break",
+    {
+      "type": "custom",
+      "key": "╭─────────< system >─────────",
+      "keyColor": "green"
+    },
+    {
+      "type": "os",
+      "keyColor": "green",
+      "key": "├ os "
+    },
+    {
+      "type": "uptime",
+      "keyColor": "green",
+      "key": "├ uptime "
+    },
+    {
+      "type": "kernel",
+      "keyColor": "green",
+      "key": "├ kernel "
+    },
+    {
+      "type": "packages",
+      "keyColor": "green",
+      "key": "├ packages "
+    },
+    {
+      "type": "shell",
+      "keyColor": "green",
+      "key": "├ shell "
+    },
+    {
+      "type": "terminal",
+      "keyColor": "green",
+      "key": "╰ terminal "
+    },
+    "break",
+    {
+      "type": "custom",
+      "key": "╭────────< hardware >────────",
+      "keyColor": "cyan"
+    },
+    {
+      "type": "host",
+      "keyColor": "cyan",
+      "key": "├ host "
+    },
+    {
+      "type": "display",
+      "keyColor": "cyan",
+      "key": "├ display "
+    },
+    {
+      "type": "cpu",
+      "keyColor": "cyan",
+      "key": "├ cpu "
+    },
+    {
+      "type": "gpu",
+      "keyColor": "cyan",
+      "key": "├ gpu "
+    },
+    {
+      "type": "battery",
+      "keyColor": "cyan",
+      "key": "╰ battery "
+    },
+    "break",
+    {
+      "type": "custom",
+      "key": "╭───────< aesthetics >───────",
+      "keyColor": "yellow"
+    },
+    {
+      "type": "wm",
+      "keyColor": "yellow",
+      "key": "├ wm "
+    },
+    {
+      "type": "cursor",
+      "keyColor": "yellow",
+      "key": "├ cursor "
+    },
+    {
+      "type": "terminalfont",
+      "keyColor": "yellow",
+      "key": "╰ terminal font "
+    },
+    
+    "break",
+    {
+      "type": "custom",
+      "key": "╭──────< memory usage >──────",
+      "keyColor": "blue"
+    },
+    {
+      "type": "memory",
+      "keyColor": "blue",
+      "key": "├ memory "
+    },
+    {
+      "type": "swap",
+      "keyColor": "blue",
+      "key": "├ swap "
+    },
+    {
+      "type": "disk",
+      "keyColor": "blue",
+      "key": "╰ disk "
+    },
+    "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "break",
+    "colors"
+  /*  {
+      "type": "custom",
+      "key": " ",
+      "format": "     \u001b[90m●  \u001b[31m●  \u001b[33m●  \u001b[36m●  \u001b[32m●  \u001b[34m●  \u001b[35m●  \u001b[37m● "
+    }*/
+  ]
+}
