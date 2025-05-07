@@ -19,6 +19,8 @@ lockscreen: hyprlock
 
 audio visualizer: cava (v simple config lmao)
 
+sysfetch: fastfetch
+
 plus vscodium json settings because why not
 
 i also have my keybindings file here but they're just a sample
