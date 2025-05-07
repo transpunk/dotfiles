@@ -25,6 +25,8 @@ plus vscodium json settings because why not
 
 i also have my keybindings file here but they're just a sample
 
+about wallpapers: i have a couple of my fave wallpapers here, i recommend skull.jpg or city.jpg for this theme, but no wallpaper app configs. also i have no idea where they came from so sorry :c
+
 ### screenshots:
 ![image](https://github.com/user-attachments/assets/66fe955f-7773-4165-b3bf-89d020ab5eaf)
 
