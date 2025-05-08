@@ -1,7 +1,7 @@
 # dotfiles
 a very purple theme for hyprland
 
-NOTE: this might be hard to use for ppl who can't see well, if u want you can disablle opacity (or enable blurring, whichever one works more)
+NOTE: this might be hard to use for ppl who can't see well, if u want you can disablle opacity (or enable blurring, whichever one works better for u)
 
 i might make an installer script in the future? but for now this is it.
 
@@ -30,3 +30,4 @@ about wallpapers: i have a couple of my fave wallpapers here, i recommend skull.
 ### screenshots:
 ![image](https://github.com/user-attachments/assets/66fe955f-7773-4165-b3bf-89d020ab5eaf)
 
+![image](https://github.com/user-attachments/assets/f4c67217-1835-4183-bf36-f221f45454bb)
